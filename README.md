@@ -6,7 +6,7 @@ I'm Beniamin, an engineering student based in Poland.
 I'm also keen on robotics and cybersecurity.
 
 🎓 I'm currently studying and using this profile to share my projects, experiments, and things I'm working on at the moment. 
-Curiosity killed the cat? I'd rather risk it and be as curious as it gets!
+Curiosity killed the cat? I'd rather risk it!
 
 ##
 
